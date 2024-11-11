@@ -1,7 +1,7 @@
 # ember-quickstart
 
 This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This particular quickstart tutorial was created to become more familiar with using Ember to create a website and work with editing and creating different routes.
 
 ## Prerequisites
 
